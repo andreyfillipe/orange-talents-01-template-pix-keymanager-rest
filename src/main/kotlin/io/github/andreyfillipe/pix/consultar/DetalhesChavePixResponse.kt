@@ -1,7 +1,6 @@
 package io.github.andreyfillipe.pix.consultar
 
 import io.github.andreyfillipe.ConsultarPixResponse
-import io.github.andreyfillipe.TipoConta
 import java.time.Instant
 import java.time.LocalDateTime
 import java.time.ZoneOffset
